@@ -1,0 +1,9 @@
+- name: 首页
+  icon: home
+  url: /
+  active_key: home
+  
+- name: 申请收录
+  icon: qrcode
+  url: /donate/
+  active_key: donate
