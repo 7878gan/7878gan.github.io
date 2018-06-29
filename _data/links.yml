@@ -295,13 +295,13 @@
       style: basic
       url: http://www.jugen7.info/?xxfldh
 
-    - name: 144导航
+    - name: 51 福利导航
       style: red
-      url: http://www.144ka.info/?xxfldh
+      url: http://www.51fldh.xyz
 
-    - name: KK37导航
+    - name: 小视频导航
       style: yellow
-      url: http://www.kk37.com/?xxfldh
+      url: http://www.xspdh.com
       
     - name: 快播云导航
       style: blue
@@ -311,9 +311,9 @@
   categories:
   - category: 论坛博客
     links:
-    - name: 草原狼社区
+    - name: 手机小视频论坛
       style: blue
-      url: http://45.32.91.223/index.htm?xxfldh.com
+      url: http://www.sjxsp.com
      
     - name: 援交论坛
       style: red
