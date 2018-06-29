@@ -93,6 +93,14 @@
     - name: 罗刹兔视频
       style: red
       url: http://www.lctoo.com/
+  
+    - name: 千万av骚鸡吧
+      style: red
+      url: http://www.wq2bb.com
+       
+    - name: 万千电影av
+      style: red
+      url: http://www.wq2v.com
       
     - name: 狂操网红嫩模视频
       style: red
@@ -214,6 +222,14 @@
       
   - category: 福利导航
     links:
+    - name: 巨人导航
+      style: yellow
+      url: http://www.ireuu.cn
+      
+    - name: 福利导航千万电影
+      style: basic
+      url: http://www.wqdh8.com
+      
     - name: 亚色AV导航
       style: basic
       url: http://yaseavdh.com/
@@ -225,10 +241,6 @@
     - name: 快猫福利导航
       style: yellow
       url: http://www.8265.ml
-     
-    - name: 巨人导航
-      style: yellow
-      url: http://www.ireuu.cn
     
     - name: 小学生性爱导航
       style: red
@@ -319,9 +331,9 @@
       style: red
       url: http://www.lc9866.com/
       
-    - name: 表哥福利
+    - name: 爱开车91
       style: basic
-      url: http://hai9966.com/
+      url: http://www.akc91.com
       
     - name: 福利图
       style: basic
