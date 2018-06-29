@@ -248,6 +248,10 @@
       style: yellow
       url: http://www.ireuu.cn
       
+    - name: 爱看萝莉导航
+      style: basic
+      url: http://www.aikandh.com  
+      
     - name: 福利导航千万电影
       style: basic
       url: http://www.wqdh8.com
